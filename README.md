@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1 align="center">Доброго времени суток </h1>
+<br>
+<h3 align="center"> Я Григорий Каплин, разработик python</h3>
+<br>
+<b>Мой стэк</b>
+<br>
+<i>Windows, Python, Django Framework, FastAPI, Asyncio,  PostgreSQL, Git</i>
+<br>
+<br>
+<b>Вот что я умею</b>
+<br>
 
 <!--
 **LittleBrotherProg/LittleBrotherProg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
